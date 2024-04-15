@@ -7,6 +7,9 @@ Screenshots of the Netflix Website.
 
 <img width="1353" alt="image" src="https://github.com/anveshchidura/Netflix_GPT/assets/31155837/98ba453e-3ed3-41ec-aebe-f5ca5953c891">
 
+<img width="1353" alt="image" src="https://github.com/anveshchidura/NetflixAI/assets/31155837/f13398e3-55f8-4ca8-af68-4fbad7ee44ea">
+
+<img width="1353" alt="image" src="https://github.com/anveshchidura/NetflixAI/assets/31155837/950a4a72-e2ac-4aba-86ef-95ee7b642bd8">
 
 # Getting Started with Create React App
 
